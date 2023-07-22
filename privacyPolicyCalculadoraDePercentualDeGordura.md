@@ -1,16 +1,16 @@
 # Privacy Policy
 
-**Last updated**: [INSERT UPDATE DATE]
+**Last updated**: 22/07/2023
 
-Thank you for using the *APP NAME* application, developed by *COMPANY NAME / DEVELOPER NAME*. This Privacy Policy describes how we collect, use, and share personal information when you use our application.
+Thank you for using the *Calculadora de % de gordura, IMC e água* application, developed by *Allan Bismarck de Souza Santos*. This Privacy Policy describes how we collect, use, and share personal information when you use our application.
 
 ## Information Collected
 
 We collect the following personal information to provide and improve our services:
 
-1. **Registration Information**: When you sign up or create an account in the application, we collect your username and email address.
+1. **Registration Information**: We do not collect any user personal information for registration.
 
-2. **Health Information**: To provide health-related features such as body fat percentage calculations, BMI, and daily water intake recommendations, the application will request information such as age, height, weight, and gender. This information is used exclusively to provide accurate calculations and recommendations.
+2. **Health Information**: To provide health-related features such as fat percentage calculations, BMI and recommended daily water intake, the application will ask for information such as height, weight, neck, waist, hip and gender measurements. This information is used solely to provide accurate calculations and recommendations.
 
 3. **Water Consumption Record**: The application allows you to record your daily water consumption. These records are stored locally on your device and are not accessible by the company or developers.
 
@@ -42,27 +42,27 @@ We may update this Privacy Policy periodically. The latest version will always b
 
 ## Contact
 
-If you have any questions or concerns related to this Privacy Policy, please contact us at [INSERT EMAIL ADDRESS].
+If you have any questions or concerns related to this Privacy Policy, please contact us at allan_b95@outlook.com.
 
-Thank you for trusting us, and we hope you enjoy the *APP NAME*!
+Thank you for trusting us, and we hope you enjoy the *Calculadora de % de gordura, IMC e água*!
 
-*INSERT COMPANY NAME / DEVELOPER NAME*
+*Allan Bismarck de Souza Santos*
 
 # Em português
 
 # Política de Privacidade
 
-**Última atualização**: [INSERIR DATA DE ATUALIZAÇÃO]
+**Última atualização**: 22/07/2023
 
-Agradecemos por utilizar o aplicativo *NOME DO APLICATIVO*, desenvolvido por *NOME DA EMPRESA / DESENVOLVEDOR*. Esta Política de Privacidade descreve como coletamos, usamos e compartilhamos informações pessoais quando você utiliza nosso aplicativo.
+Agradecemos por utilizar o aplicativo *Calculadora de % de gordura, IMC e água*, desenvolvido por *Allan Bismarck de Souza Santos*. Esta Política de Privacidade descreve como coletamos, usamos e compartilhamos informações pessoais quando você utiliza nosso aplicativo.
 
 ## Informações coletadas
 
 Nós coletamos as seguintes informações pessoais para fornecer e melhorar nossos serviços:
 
-1. **Informações de Registro**: Quando você se cadastra ou cria uma conta no aplicativo, coletamos seu nome de usuário e endereço de e-mail.
+1. **Informações de Registro**: Não coletamos nenhuma informação pessoal do usuário para registro.
 
-2. **Informações de Saúde**: Para fornecer funcionalidades relacionadas à saúde, como cálculos de percentual de gordura, IMC e recomendação de ingestão diária de água, o aplicativo solicitará informações como idade, altura, peso e gênero. Essas informações são usadas exclusivamente para fornecer os cálculos e recomendações precisas.
+2. **Informações de Saúde**: Para fornecer funcionalidades relacionadas à saúde, como cálculos de percentual de gordura, IMC e recomendação de ingestão diária de água, o aplicativo solicitará informações como altura, peso, medidas de pescoço, cintura, quadril e gênero. Essas informações são usadas exclusivamente para fornecer os cálculos e recomendações precisas.
 
 3. **Registro de Consumo de Água**: O aplicativo permite que você registre seu consumo diário de água. Esses registros são armazenados localmente em seu dispositivo e não são acessíveis pela empresa ou pelos desenvolvedores.
 
@@ -94,27 +94,27 @@ Podemos atualizar periodicamente esta Política de Privacidade. A versão mais r
 
 ## Contato
 
-Se você tiver alguma dúvida ou preocupação relacionada a esta Política de Privacidade, entre em contato conosco pelo e-mail [INSERIR ENDEREÇO DE E-MAIL].
+Se você tiver alguma dúvida ou preocupação relacionada a esta Política de Privacidade, entre em contato conosco pelo e-mail allan_b95@outlook.com.
 
-Agradecemos por confiar em nós e esperamos que você aproveite o *NOME DO APLICATIVO*!
+Agradecemos por confiar em nós e esperamos que você aproveite o *Calculadora de % de gordura, IMC e água*!
 
-*INSERIR NOME DA EMPRESA / DESENVOLVEDOR*
+*Allan Bismarck de Souza Santos*
 
 # En español
 
 # Política de Privacidad
 
-**Última actualización**: [INSERTAR FECHA DE ACTUALIZACIÓN]
+**Última actualización**: 22/07/2023
 
-Gracias por usar la aplicación *NOMBRE DE LA APLICACIÓN*, desarrollada por *NOMBRE DE LA EMPRESA / DESARROLLADOR*. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos información personal cuando utilizas nuestra aplicación.
+Gracias por usar la aplicación *Calculadora de % de gordura, IMC e água*, desarrollada por *Allan Bismarck de Souza Santos*. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos información personal cuando utilizas nuestra aplicación.
 
 ## Información Recopilada
 
 Recopilamos la siguiente información personal para proporcionar y mejorar nuestros servicios:
 
-1. **Información de Registro**: Cuando te registras o creas una cuenta en la aplicación, recopilamos tu nombre de usuario y dirección de correo electrónico.
+1. **Información de Registro**: No recopilamos ninguna información personal del usuario para el registro.
 
-2. **Información de Salud**: Para proporcionar funciones relacionadas con la salud, como cálculos del porcentaje de grasa corporal, IMC y recomendaciones de consumo diario de agua, la aplicación solicitará información como edad, altura, peso y género. Esta información se utiliza exclusivamente para proporcionar cálculos y recomendaciones precisas.
+2. **Información de Salud**: Para proporcionar funciones relacionadas con la salud, como cálculos del porcentaje de grasa, IMC y la ingesta diaria recomendada de agua, la aplicación solicitará información como las medidas de altura, peso, cuello, cintura, cadera y sexo. Esta información se utiliza únicamente para proporcionar cálculos y recomendaciones precisos.
 
 3. **Registro del Consumo de Agua**: La aplicación te permite registrar tu consumo diario de agua. Estos registros se almacenan localmente en tu dispositivo y no son accesibles por la empresa o los desarrolladores.
 
@@ -146,8 +146,8 @@ Podemos actualizar esta Política de Privacidad periódicamente. La última vers
 
 ## Contacto
 
-Si tienes alguna pregunta o inquietud relacionada con esta Política de Privacidad, por favor contáctanos a través del correo electrónico [INSERTAR DIRECCIÓN DE CORREO ELECTRÓNICO].
+Si tienes alguna pregunta o inquietud relacionada con esta Política de Privacidad, por favor contáctanos a través del correo electrónico allan_b95@outlook.com.
 
-¡Gracias por confiar en nosotros, esperamos que disfrutes de la aplicación *NOMBRE DE LA APLICACIÓN*!
+¡Gracias por confiar en nosotros, esperamos que disfrutes de la aplicación *Calculadora de % de gordura, IMC e água*!
 
-*INSERTAR NOMBRE DE LA EMPRESA / DESARROLLADOR*
+*Allan Bismarck de Souza Santos*
