@@ -1,3 +1,55 @@
+# Privacy Policy
+
+**Last updated**: [INSERT UPDATE DATE]
+
+Thank you for using the *APP NAME* application, developed by *COMPANY NAME / DEVELOPER NAME*. This Privacy Policy describes how we collect, use, and share personal information when you use our application.
+
+## Information Collected
+
+We collect the following personal information to provide and improve our services:
+
+1. **Registration Information**: When you sign up or create an account in the application, we collect your username and email address.
+
+2. **Health Information**: To provide health-related features such as body fat percentage calculations, BMI, and daily water intake recommendations, the application will request information such as age, height, weight, and gender. This information is used exclusively to provide accurate calculations and recommendations.
+
+3. **Water Consumption Record**: The application allows you to record your daily water consumption. These records are stored locally on your device and are not accessible by the company or developers.
+
+## Use of Information
+
+The collected information is used only for the following purposes:
+
+1. To provide body fat percentage calculations, BMI, and daily water intake based on the information provided by you.
+
+2. To personalize your experience in the application, offering more accurate and relevant recommendations.
+
+3. To improve our services and functionalities based on user feedback and usage.
+
+## Sharing of Information
+
+We do not share your personal information with third parties unless it is necessary to provide the services requested by you or if we are required by law.
+
+## Security
+
+The security of your personal information is important to us. We implement appropriate security measures to protect your information against unauthorized access, alteration, or disclosure.
+
+## Cookies
+
+Our application does not use cookies to collect information.
+
+## Changes to this Privacy Policy
+
+We may update this Privacy Policy periodically. The latest version will always be available in the application and will be effective from the update date.
+
+## Contact
+
+If you have any questions or concerns related to this Privacy Policy, please contact us at [INSERT EMAIL ADDRESS].
+
+Thank you for trusting us, and we hope you enjoy the *APP NAME*!
+
+*INSERT COMPANY NAME / DEVELOPER NAME*
+
+# Em português
+
 # Política de Privacidade
 
 **Última atualização**: [INSERIR DATA DE ATUALIZAÇÃO]
@@ -47,3 +99,55 @@ Se você tiver alguma dúvida ou preocupação relacionada a esta Política de P
 Agradecemos por confiar em nós e esperamos que você aproveite o *NOME DO APLICATIVO*!
 
 *INSERIR NOME DA EMPRESA / DESENVOLVEDOR*
+
+# En español
+
+# Política de Privacidad
+
+**Última actualización**: [INSERTAR FECHA DE ACTUALIZACIÓN]
+
+Gracias por usar la aplicación *NOMBRE DE LA APLICACIÓN*, desarrollada por *NOMBRE DE LA EMPRESA / DESARROLLADOR*. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos información personal cuando utilizas nuestra aplicación.
+
+## Información Recopilada
+
+Recopilamos la siguiente información personal para proporcionar y mejorar nuestros servicios:
+
+1. **Información de Registro**: Cuando te registras o creas una cuenta en la aplicación, recopilamos tu nombre de usuario y dirección de correo electrónico.
+
+2. **Información de Salud**: Para proporcionar funciones relacionadas con la salud, como cálculos del porcentaje de grasa corporal, IMC y recomendaciones de consumo diario de agua, la aplicación solicitará información como edad, altura, peso y género. Esta información se utiliza exclusivamente para proporcionar cálculos y recomendaciones precisas.
+
+3. **Registro del Consumo de Agua**: La aplicación te permite registrar tu consumo diario de agua. Estos registros se almacenan localmente en tu dispositivo y no son accesibles por la empresa o los desarrolladores.
+
+## Uso de la Información
+
+La información recopilada se utiliza únicamente para los siguientes propósitos:
+
+1. Proporcionar cálculos del porcentaje de grasa corporal, IMC y consumo diario de agua basados en la información proporcionada por ti.
+
+2. Personalizar tu experiencia en la aplicación, ofreciendo recomendaciones más precisas y relevantes.
+
+3. Mejorar nuestros servicios y funcionalidades en base a los comentarios y el uso de los usuarios.
+
+## Compartir Información
+
+No compartimos tu información personal con terceros, a menos que sea necesario para proporcionar los servicios que nos solicitaste o si estamos obligados por ley.
+
+## Seguridad
+
+La seguridad de tu información personal es importante para nosotros. Implementamos medidas de seguridad apropiadas para proteger tu información contra accesos no autorizados, alteraciones o divulgaciones.
+
+## Cookies
+
+Nuestra aplicación no utiliza cookies para recopilar información.
+
+## Cambios en esta Política de Privacidad
+
+Podemos actualizar esta Política de Privacidad periódicamente. La última versión estará siempre disponible en la aplicación y será efectiva a partir de la fecha de actualización.
+
+## Contacto
+
+Si tienes alguna pregunta o inquietud relacionada con esta Política de Privacidad, por favor contáctanos a través del correo electrónico [INSERTAR DIRECCIÓN DE CORREO ELECTRÓNICO].
+
+¡Gracias por confiar en nosotros, esperamos que disfrutes de la aplicación *NOMBRE DE LA APLICACIÓN*!
+
+*INSERTAR NOMBRE DE LA EMPRESA / DESARROLLADOR*
