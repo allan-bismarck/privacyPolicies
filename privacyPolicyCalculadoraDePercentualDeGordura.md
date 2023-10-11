@@ -2,7 +2,7 @@
 
 **Last updated**: 22/07/2023
 
-Thank you for using the *Calculadora de % de gordura, IMC e água* application, developed by *Allan Bismarck de Souza Santos*. This Privacy Policy describes how we collect, use, and share personal information when you use our application.
+Thank you for using the *FitBalance* application, developed by *Allan Bismarck de Souza Santos*. This Privacy Policy describes how we collect, use, and share personal information when you use our application.
 
 ## Information Collected
 
@@ -44,7 +44,7 @@ We may update this Privacy Policy periodically. The latest version will always b
 
 If you have any questions or concerns related to this Privacy Policy, please contact us at allan_b95@outlook.com.
 
-Thank you for trusting us, and we hope you enjoy the *Calculadora de % de gordura, IMC e água*!
+Thank you for trusting us, and we hope you enjoy the *FitBalance*!
 
 *Allan Bismarck de Souza Santos*
 
@@ -54,7 +54,7 @@ Thank you for trusting us, and we hope you enjoy the *Calculadora de % de gordur
 
 **Última atualização**: 22/07/2023
 
-Agradecemos por utilizar o aplicativo *Calculadora de % de gordura, IMC e água*, desenvolvido por *Allan Bismarck de Souza Santos*. Esta Política de Privacidade descreve como coletamos, usamos e compartilhamos informações pessoais quando você utiliza nosso aplicativo.
+Agradecemos por utilizar o aplicativo *FitBalance*, desenvolvido por *Allan Bismarck de Souza Santos*. Esta Política de Privacidade descreve como coletamos, usamos e compartilhamos informações pessoais quando você utiliza nosso aplicativo.
 
 ## Informações coletadas
 
@@ -96,7 +96,7 @@ Podemos atualizar periodicamente esta Política de Privacidade. A versão mais r
 
 Se você tiver alguma dúvida ou preocupação relacionada a esta Política de Privacidade, entre em contato conosco pelo e-mail allan_b95@outlook.com.
 
-Agradecemos por confiar em nós e esperamos que você aproveite o *Calculadora de % de gordura, IMC e água*!
+Agradecemos por confiar em nós e esperamos que você aproveite o *FitBalance*!
 
 *Allan Bismarck de Souza Santos*
 
@@ -106,7 +106,7 @@ Agradecemos por confiar em nós e esperamos que você aproveite o *Calculadora d
 
 **Última actualización**: 22/07/2023
 
-Gracias por usar la aplicación *Calculadora de % de gordura, IMC e água*, desarrollada por *Allan Bismarck de Souza Santos*. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos información personal cuando utilizas nuestra aplicación.
+Gracias por usar la aplicación *FitBalance*, desarrollada por *Allan Bismarck de Souza Santos*. Esta Política de Privacidad describe cómo recopilamos, utilizamos y compartimos información personal cuando utilizas nuestra aplicación.
 
 ## Información Recopilada
 
@@ -148,6 +148,6 @@ Podemos actualizar esta Política de Privacidad periódicamente. La última vers
 
 Si tienes alguna pregunta o inquietud relacionada con esta Política de Privacidad, por favor contáctanos a través del correo electrónico allan_b95@outlook.com.
 
-¡Gracias por confiar en nosotros, esperamos que disfrutes de la aplicación *Calculadora de % de gordura, IMC e água*!
+¡Gracias por confiar en nosotros, esperamos que disfrutes de la aplicación *FitBalance*!
 
 *Allan Bismarck de Souza Santos*
