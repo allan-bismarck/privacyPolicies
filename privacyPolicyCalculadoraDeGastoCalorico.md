@@ -10,15 +10,11 @@ We may collect the following information provided by the user:
 
 - Personal data, such as name, and weight;
 
-### 1.2 Device Information
-
-We may collect technical information about the mobile device used to access the app, such as device model, operating system, app version, and unique identifiers.
-
 ## 2. Use of Information
 
 ### 2.1 Internal Use
 
-The collected information is used to operate, maintain, and improve the app and its features, as well as to provide user support.
+The information collected is only used for display within the application itself.
 
 ### 2.2 Information Sharing
 
@@ -62,15 +58,11 @@ Podemos coletar as seguintes informações fornecidas pelo usuário:
 
 - Dados pessoais, como nome e peso;
 
-### 1.2 Informações do dispositivo
-
-Podemos coletar informações técnicas sobre o dispositivo móvel usado para acessar o aplicativo, como o modelo do dispositivo, sistema operacional, versão do aplicativo e identificadores exclusivos.
-
 ## 2. Uso das informações
 
 ### 2.1 Uso interno
 
-As informações coletadas são usadas para operar, manter e melhorar o aplicativo e seus recursos, além de fornecer suporte ao usuário.
+As informações coletadas são usadas apenas para exibição dentro do próprio aplicativo.
 
 ### 2.2 Compartilhamento de informações
 
@@ -114,15 +106,11 @@ Podemos recopilar la siguiente información proporcionada por el usuario:
 
 - Datos personales, como nombre y peso;
 
-### 1.2 Información del dispositivo
-
-Podemos recopilar información técnica sobre el dispositivo móvil utilizado para acceder a la aplicación, como el modelo del dispositivo, el sistema operativo, la versión de la aplicación e identificadores únicos.
-
 ## 2. Uso de la información
 
 ### 2.1 Uso interno
 
-La información recopilada se utiliza para operar, mantener y mejorar la aplicación y sus características, así como para proporcionar soporte al usuario.
+La información recopilada sólo se utiliza para su visualización dentro de la propia aplicación.
 
 ### 2.2 Compartir información
 
